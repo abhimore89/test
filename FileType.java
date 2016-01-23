@@ -1,6 +1,6 @@
 public enum FileType {
 
-	PNG("png"), JPG("jpg");
+	PNG("png"), png("png"), JPG("jpg"), jpg("jpg");
 
 	String desc;
 
